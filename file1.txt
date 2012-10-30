@@ -1,0 +1,2 @@
+This file was added to the GitTrain repository after initial creation.
+The initial copy contains two lines of text.
