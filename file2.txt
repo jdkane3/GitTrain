@@ -1,2 +1,4 @@
 This is another file for the GitTrain repo.
 We will start off with two lines.
+
+I've added a line for a new commit.
